@@ -31,4 +31,4 @@ Vagrant.configure("2") do |config|
    fi
  SHELL
 end
-{"mode":"full","isActive":false}
+{"mode":"full","isActive":false}  
